@@ -38,7 +38,7 @@ print(c)
 
 """
 
-Whta is Error in python?
+What is Error in python?
 Error is a mistake in the program that will stop the program to run.
 There are 3 types of error in python
 1. Syntax error
